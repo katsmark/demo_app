@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: демо приложение
+# Ruby on Rails Tutorial: РґРµРјРѕ РїСЂРёР»РѕР¶РµРЅРёРµ TEST
 
-Это демо приложение для
+Р­С‚Рѕ РґРµРјРѕ РїСЂРёР»РѕР¶РµРЅРёРµ РґР»СЏ
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
- [Майкл Хартл](http://michaelhartl.com/).
+ [РњР°Р№РєР» РҐР°СЂС‚Р»](http://michaelhartl.com/).
